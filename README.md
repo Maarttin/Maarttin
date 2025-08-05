@@ -3,6 +3,10 @@
 Soy desarrollador web apasionado por la inteligencia artificial, el diseño responsivo y la integración de modelos de machine learning en aplicaciones modernas.
 
 ## 🚀 Proyectos Destacados
+### Página personal con React y Vite
+- Frontend en React
+-  Diseño responsivo con Tailwind CSS
+-  [Ver repositorio](https://github.com/Maarttin/MiPaginaPersonal)
 
 ### 🔍 Análisis de Sentimientos con Angular + Flask + TensorFlow
 - Frontend en Angular con Material UI
@@ -10,21 +14,25 @@ Soy desarrollador web apasionado por la inteligencia artificial, el diseño resp
 - Dockerizado para despliegue fácil
 - [Ver repositorio](https://github.com/tuusuario/sentiment-app)
 
-### 📊 Dashboard Interactivo con Vue.js y Kendo UI
-- Visualización dinámica de datos
+### 📊 Portafolio de fotos con React y Vite
+- Visualización de fotografias
 - Diseño responsivo con Tailwind CSS
-- [Ver repositorio](https://github.com/tuusuario/vue-dashboard)
+- [Ver repositorio](https://github.com/Maarttin/MiFotografo)
 
-### 🧠 Blog Dinámico con Markdown y Vue Router
+### 🧠 Blog con Vue 3 + TypeScript + Vite
 - Sistema de rutas dinámicas
 - Renderizado de contenido Markdown
-- [Ver repositorio](https://github.com/tuusuario/vue-blog)
+- [Ver repositorio](https://github.com/Maarttin/MiBlog)
 
 ## 🛠️ Tecnologías que uso
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" alt="Vue.js Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS Logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="30" alt="firebase logo"/>
   <img width="12" />
