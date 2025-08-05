@@ -12,7 +12,7 @@ Soy desarrollador web apasionado por la inteligencia artificial, el diseño resp
 - Frontend en Angular con Material UI
 - Backend en Flask con modelo de IA integrado
 - Dockerizado para despliegue fácil
-- [Ver repositorio](https://github.com/tuusuario/sentiment-app)
+- [Ver repositorio](https://github.com/Maarttin/AnalisisDeSentimientos)
 
 ### 📊 Portafolio de fotos con React y Vite
 - Visualización de fotografias
@@ -30,7 +30,7 @@ Soy desarrollador web apasionado por la inteligencia artificial, el diseño resp
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js Logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS Logo" />
   <img width="12" />
