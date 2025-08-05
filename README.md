@@ -111,8 +111,8 @@ Soy desarrollador web apasionado por la inteligencia artificial, el diseño resp
 
 
 ## 📫 Contacto
-- [LinkedIn](https://linkedin.com/in/tuusuario)
-- [Correo](mailto:tuemail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/mart%C3%ADn-arag%C3%B3n-s%C3%A1nchez-36942b283/)
+- [Correo](mailto:martinaragonsanchez@gmail.com)
 <!--
 **Maarttin/Maarttin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
