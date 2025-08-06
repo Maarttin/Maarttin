@@ -1,6 +1,7 @@
 # 👋 Hola, soy Martin Aragón Sánchez
 
-Soy desarrollador web apasionado por la inteligencia artificial, el diseño responsivo y la integración de modelos de machine learning en aplicaciones modernas.
+La tecnología, la programación y las computadoras son cosas que
+realmente me apasionan y me interesan. En este momento estoyinteresado en desarrollo web, específicamente en frontend y en lainteligencia artificial. Soy una persona muy curiosa y muyautodidacta. estoy comprometido con mi formación continua y lasactualizaciones tecnológicas referentes a mi campo de estudio.
 
 ## 🚀 Proyectos Destacados
 ### Página personal con React y Vite
